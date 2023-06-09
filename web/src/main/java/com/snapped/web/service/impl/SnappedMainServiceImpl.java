@@ -7,11 +7,11 @@ import org.springframework.stereotype.Service;
 public class SnappedMainServiceImpl implements SnappedMainService {
     @Override
     public String getHomePage() {
-        return "Snapped HomePage";
+        return "Snapped HomePage. Enjoy!";
     }
 
     @Override
     public String getCategories() {
-        return "Snapped Category Page";
+        return "Snapped Category Page. Enjoy!";
     }
 }
