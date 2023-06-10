@@ -33,9 +33,5 @@ build/
 .vscode/
 
 .DS_Store
-web/.DS_Store
-web/src/.DS_Store
-web/src/main/.DS_Store
-web/src/main/resources/.DS_Store
 
 /src/main/resources/Google/snapped-389316-a7a27dfe682a.json
