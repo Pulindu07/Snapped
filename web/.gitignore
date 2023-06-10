@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+.DS_Store
+web/.DS_Store
+web/src/.DS_Store
+web/src/main/.DS_Store
+web/src/main/resources/.DS_Store
