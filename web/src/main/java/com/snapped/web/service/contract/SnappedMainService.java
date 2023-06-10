@@ -1,9 +1,12 @@
 package com.snapped.web.service.contract;
 
+import com.snapped.web.model.SnappedResponse;
+
+import java.io.IOException;
+
 public interface SnappedMainService {
 
-    public String getHomePage();
+    public SnappedResponse getHomePage();
 
-    public String getCategories();
-
+    SnappedResponse getAllCategoryPhotos(String category) throws Exception;
 }
